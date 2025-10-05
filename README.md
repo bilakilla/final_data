@@ -10,4 +10,9 @@
 2. Fang, Z., Liu, X., & Peltz, G. GSEApy: a comprehensive package for performing gene set enrichment analysis in Python. <i>Bioinformatics</i>, <b>39</b>(1), btac757, (2023). https://doi.org/10.1093/bioinformatics/btac757
 3. Troulé, K., Petryszak, R., Cakir, B. <i>et al.</i> CellPhoneDB v5: inferring cell–cell communication from single-cell multiomics data. <i>Nat Protoc</i> (2025). https://doi.org/10.1038/s41596-024-01137-1
 4. Palla, G., Spitzer, H., Klein, M. <i>et al.</i> Squidpy: a scalable framework for spatial omics analysis. <i>Nat Methods</i> <b>19</b>, 171–178 (2022). https://doi.org/10.1038/s41592-021-01358-2
+5. Seabold, S., & Perktold, J. statsmodels: Econometric and statistical modeling with python. 9th Python in Science Conference (2010). https://github.com/statsmodels/statsmodels
+6. Virtanen, P., et al. SciPy 1.0: fundamental algorithms for scientific computing in Python. <i>Nat Methods</i> <b>17</b>(3): 261-272 (2020). https://github.com/scipy/scipy
+7. Wolf, F. A., et al. SCANPY: large-scale single-cell gene expression data analysis. <i>Genome Biol</i> <b>19</b>(1): 15 (2018). https://github.com/theislab/anndata
+
+
 
